@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dndyMXR4dWZjdjE3MTV4dXg3Yjc4NTV2Y3F6cnh6cnMyY294bTl5eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H4tfikwU395KdacLT1/giphy.gif" width=45px>
 </h1>
 
-<p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7FF&size=25&center=true&vCenter=true&width=600&height=100&repeat=false&lines=Data+Analyst">
   </a>
