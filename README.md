@@ -58,7 +58,7 @@ Finally, I want to bring data-driven solutions to companies but data without sto
 </p>
 
 
-### Python data modules
+### Python data packages
 <p align="center">
   <a href="https://numpy.org/">
     <img src="./svg_files/numpy.svg" width=60px title="NumPy">
